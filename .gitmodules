@@ -1,0 +1,3 @@
+[submodule "repositories/sd-webui-controlnet"]
+	path = repositories/sd-webui-controlnet
+	url = https://github.com/Mikubill/sd-webui-controlnet.git
