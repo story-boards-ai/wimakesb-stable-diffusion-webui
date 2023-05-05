@@ -1,3 +1,16 @@
 [submodule "repositories/sd-webui-controlnet"]
 	path = repositories/sd-webui-controlnet
 	url = https://github.com/Mikubill/sd-webui-controlnet.git
+[submodule "repositories/taming-transformers"]
+	path = repositories/taming-transformers
+	url = https://github.com/CompVis/taming-transformers.git
+[submodule "repositories/CodeFormer"]
+	path = repositories/CodeFormer
+	url = https://github.com/sczhou/CodeFormer.git
+[submodule "repositories/k-diffusion"]
+	path = repositories/k-diffusion
+	url = https://github.com/crowsonkb/k-diffusion.git
+[submodule "repositories/stable-diffusion-stability-ai"]
+	path = repositories/stable-diffusion-stability-ai
+	url = https://github.com/CompVis/stable-diffusion.git
+
