@@ -1,0 +1,3 @@
+a photo of a [name] [filewords]
+an image of a [name] [filewords]
+an aerial view of a [name] [filewords]
