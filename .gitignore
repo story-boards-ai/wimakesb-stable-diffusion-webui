@@ -32,7 +32,6 @@ models/Stable-diffusion/lineArtModel_10.txt
 models/Stable-diffusion/lineArtModel_10.ckpt
 models/Stable-diffusion/f222.ckpt
 models/Stable-diffusion/anyloraCheckpoint_bakedvaeFtmseFp16NOT.safetensors
-repositories/taming-transformers
 wimakesb-stable-diffusion-webui\extensions
 /xformers-main/*
 /models/BLIP
